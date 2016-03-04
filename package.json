@@ -1,12 +1,13 @@
 {
-  "name": "ui-light",
-  "displayName": "Light",
+  "name": "n1-svelte",
+  "displayName": "Svelte",
   "theme": "ui",
-  "version": "0.1.0",
-  "description": "The N1 Client Theme",
-  "license": "GPL-3.0",
+  "version": "0.0.1",
+  "description": "A subtle and horizontally-stingy Nylas N1 theme.",
+  "license": "MIT",
   "engines": {
     "nylas": "*"
   },
+  "styleSheets": ["controls", "sidebar", "threads"],
   "private": true
 }
